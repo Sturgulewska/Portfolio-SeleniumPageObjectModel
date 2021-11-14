@@ -4,7 +4,7 @@ Project status: completed
 
 # General info
 
-Testing webside: https://bbbazaar.pl/, checking login to application and searching item: "bluza".
+<li>Testing webside: https://bbbazaar.pl/, checking login to application and searching item: "bluza".</li>
 
 # Technologies
 
